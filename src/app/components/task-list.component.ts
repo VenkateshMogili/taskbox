@@ -1,60 +1,31 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { Task } from '../models/task.model';
+import { Store } from '@ngxs/store';
+import { ArchiveTask, PinTask } from '../state/task.state';
+import { Observable } from 'rxjs';
 
 @Component({
   selector: 'app-task-list',
   template: `
-    <div class="list-items">
-      <app-task
-        *ngFor="let task of tasksInOrder"
-        [task]="task"
-        (onArchiveTask)="onArchiveTask.emit($event)"
-        (onPinTask)="onPinTask.emit($event)"
-      >
-      </app-task>
-      <div
-        *ngIf="tasksInOrder.length === 0 && !loading"
-        class="wrapper-message"
-      >
-        <span class="icon-check"></span>
-        <p class="title-message">You have no tasks</p>
-        <p class="subtitle-message">Sit back and relax</p>
-      </div>
-      <div *ngIf="loading">
-        <div *ngFor="let i of [1, 2, 3, 4, 5, 6]" class="loading-item">
-          <span class="glow-checkbox"></span>
-          <span class="glow-text">
-            <span>Loading</span> <span>cool</span> <span>state</span>
-          </span>
-        </div>
-      </div>
-    </div>
+    <app-pure-task-list
+      [tasks]="tasks$ | async"
+      (onArchiveTask)="archiveTask($event)"
+      (onPinTask)="pinTask($event)"
+    ></app-pure-task-list>
   `,
 })
 export class TaskListComponent {
   //@Input() tasks: Task[] = [];
+  tasks$?: Observable<any>;
+  constructor(private store: Store) {
+    this.tasks$ = store.select((state) => state.taskbox.tasks);
+  }
 
-  tasksInOrder: Task[] = [];
+  archiveTask(id: string) {
+    this.store.dispatch(new ArchiveTask(id));
+  }
 
-  @Input() loading = false;
-
-  @Output()
-  onPinTask = new EventEmitter<Event>();
-
-  @Output()
-  onArchiveTask = new EventEmitter<Event>();
-
-  @Input()
-  set tasks(arr: Task[]) {
-    const initialTasks = [
-      ...arr.filter((t) => t.state === 'TASK_PINNED'),
-      ...arr.filter((t) => t.state !== 'TASK_PINNED'),
-    ];
-    const filteredTasks = initialTasks.filter(
-      (t) => t.state === 'TASK_INBOX' || t.state === 'TASK_PINNED'
-    );
-    this.tasksInOrder = filteredTasks.filter(
-      (t) => t.state === 'TASK_INBOX' || t.state === 'TASK_PINNED'
-    );
+  pinTask(id: string) {
+    this.store.dispatch(new PinTask(id));
   }
 }
