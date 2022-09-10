@@ -1,0 +1,883 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v14.17.5
+
+Operating system : Windows 10
+
+[12:32:45] No configuration file found, switching to CLI flags.
+[12:32:45] Using tsconfig file : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\tsconfig.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.editorconfig
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.browserslistrc
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\angular.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.gitignore
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\documentation.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\jest.config.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\LICENSE
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\package-lock.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\build-storybook.log
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\package.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\README.md
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\tsconfig.app.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\tsconfig.spec.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\tsconfig.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.storybook\main.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.storybook\preview.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.storybook\tsconfig.json
+[12:32:45] Ignoring       : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.storybook\typings.d.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\jest-config\setup.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\main.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\polyfills.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\index.html
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\favicon.ico
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\styles.css
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\225.adf1b44b.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\256.d604e1fe22a3f18b608a.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\239.43bc22d7.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\239.43bc22d7.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\291.4044512f.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\291.4044512f.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\295.d529687a131da6bdd8ab.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\345.b8f4061f.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\366.61bd4b1f.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\366.61bd4b1f.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\39.2ed10874.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\39.2ed10874.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\468.01895f4e10fff0f7c1e1.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\468.01895f4e10fff0f7c1e1.manager.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\471.ac401dae.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\471.ac401dae.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\528.424a7bd4a9e142c5a41e.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\528.424a7bd4a9e142c5a41e.manager.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\565.de0d997c.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\551.d0a523cde4424f5b22f1.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\565.de0d997c.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\637.c468643c48a0a633192d.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\637.c468643c48a0a633192d.manager.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\675.026c885b9c746c5e7254.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\675.026c885b9c746c5e7254.manager.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\747.2e592bfe.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\877.c81a6411.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\877.c81a6411.iframe.bundle.js.LICENSE.txt
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\877.c81a6411.iframe.bundle.js.map
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\974.cf670b6aae723599bdbd.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\996.66e30629.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\favicon.ico
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\iframe.html
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\index.html
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\main.84e9271cc0a4a50eeee3.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\main.bee9c8ad.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\percolate.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\main.css
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\percolate.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\percolate.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\percolate.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\project.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\runtime~main.14fab361.iframe.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\runtime~main.7d02c99facc1e1ca496c.manager.bundle.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\jest-config\__mocks__\fileMock.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\jest-config\__mocks__\styleMock.js
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\jest-config\__mocks__\globalMocks.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\app.component.css
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\app.component.html
+[12:32:45] Ignoring       : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\app.component.spec.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\app.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\app.module.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\environments\environment.prod.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\.gitkeep
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\environments\environment.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\button.css
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\button.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\Button.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\header.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\Header.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\header.css
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\Introduction.stories.mdx
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\page.css
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\page.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\Page.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\User.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\inbox-screen.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\pure-inbox-screen.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\pure-task-list.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\pure-task-list.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\task-list.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\task.component.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\pure-inbox-screen.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\task-list.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\task.module.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\components\task.stories.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\models\task.model.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\icon\percolate.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Light-webfont.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\icon\percolate.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\icon\percolate.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\icon\percolate.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Light-webfont.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Light-webfont.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Light-webfont.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Regular-webfont.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Regular-webfont.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Regular-webfont.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\assets\font\OpenSans-Regular-webfont.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\app\state\task.state.ts
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\code-brackets.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\colors.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\comments.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\plugin.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\flow.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\direction.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\repo.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\src\stories\assets\stackalt.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Light-webfont.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\font\OpenSans-Regular-webfont.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\icon\percolate.eot
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\icon\percolate.svg
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\icon\percolate.ttf
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\storybook-static\assets\icon\percolate.woff
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\04b3b6e01eb032bab8ede22bfcd5f4ab.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\04ce24f416d5254c43842325178cd2f6.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\08dfc031476e1f7b11d6ce234c84ffe7.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0a2aaee6b93a8ced2e58c87598e3a3f4.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0319e24943e9e82bd8eac12a6a2dbd59.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0088827bac5bd3ea3da9bb7d99ca238f.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0b0dc44b69cdc74b6b46c246b24b8ebe.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0af4dc3bd58380dbbb7ca1d4c89fc8a2.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0b186315bf3729f0714a92c6ad8680a3.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\0bab9861d6f40a6f8be1890cf0b1833c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\1237b7780b11a2b64cc05a2f02d2689c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\15de4190155c0bf442e0434be9af47aa.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\121276d16c4ccacd22fab35b78ed8bfd.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\140258529e8c320f8009194c5c04b77f.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\164ac3ae8a6d329900556b96438844b5.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\165644072aa58124d9ab5a5030fe7deb.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\164f374da5e60404ec26b1e4769b0e9b.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\18b09410d647a3440dc1a8f1c422dc58.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\19ac957cc6fa332242e4791074ee06fe.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\1af5a9aef0b0afb673fed511eb227998.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\1d71fcd4cdf262bf5cc8036297652bf5.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\1f26ff53ca28081a30e91e3b46680dbc.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\17b51bda0d6a868a21e8c038d5c2b0c0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\1ac1f8a877da87307322d8a2aaff88ea.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\214900763b4f65457e4f8765d12177f5.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\2191a2fd6cd93624961f293499dbdcf1.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\20ccb7c815d392ac4e6c7ec68ac90bb4.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\24b998364b6bc40ef2ee9be927622e50.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\245951c9264a87fe330c33532f79a68b.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\2a0b4c3739b1f64c9923b4959f483232.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\2da4613b4438b40ec972bbf69e120556.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\2e115dd58908dff5656a0f9157e89469.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\319fc34beb4dc05090d3bb377efb69c9.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\33f6125752898ec4205c7fa9e953d0a7.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3c9fdf1b90dcf4f5f490272fe71000c0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\381923c3fe06e8c76cdc0a44590f7799.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3f3bd774af090ddb45eeec35a31d4683.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3f5379ccfb0c60a3bb9742d134d3ea7b.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3f10781defc77114a287c35631120165.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3d27a9703777c1991339a277ecc7f888.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3fa8e99e1e1b0594054bc1697db9e608.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3fd2111c8524a122e1a274e1fa0012af.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\3ffd3cd68093b4c7872be159b960ff6c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\408d58539886e27aa00e2d14b3951bcc.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\40b0627e646ab0d2fd89786ef34cee40.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4335cc711338094a91860b2adb191d85.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4402b9aae534f8ad72fe1e9210b4c3d3.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\40ccf52fb2c377b441dfaafb84dec9d3.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4260acff1981c8adc735f51234b58184.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\44341c31b037680ecb69abdf33c8f721.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4918af084a528fa742cc599978396a09.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\46d408e72595d39722a245230b72b92c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4be63e679699b25d6c30886b42ef0d59.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4bf463d9d886e10b0db801e292e58ce5.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4d9ffeb4045f9739cb48c03d50de3938.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4c28ed937ef0e5ae8baf278c951ab650.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\569cb2157aa6a9ee6bddfd3c9de5a3d9.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\5756018656f5b09734353a953b1b37ca.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\5a48606c2b8dfa635e54bee96b08197d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\4fe020e00db430201c68c212c42318ba.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\53b90b5542bb51a5c0b63d6613507d66.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\5af9bbe019e5f017cbfedc11cadf4c20.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6034c359b68cd81edde8858e02833c71.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\5f6817f9b26593f10161fc41ce028794.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\5fce354f1fc9f8c810cb1210f0ad4d32.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\66348bff9a21db60392e2c12572ffec0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\667e8ff2817e93788d352bbc5c117a94.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\5c3ea64499800e28adfd55548225daf1.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6327aa195ac0f9ed3a89373245a0d121.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\666ae819f2bb45857e8fa379a149fe2d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6ab0e414dc71ce68c54f5d83af2ba06c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6b497475ad07d5116b91755576043d66.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\66aae5d151f52ac6c9ed8600df5ad821.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6d53ab1d1f2fc575a8575fe1746468bf.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\711614edcdf3f21e97fa82d1d8eb4c83.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\7341bb828e0caba8da4f1e88f31402a7.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6e8d241e495b4fe4243830fb088df17b.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\6ed07104797d0eabb4771981a5a346f6.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\72310d3625270ea9c1548abd3ac2e69a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\759482d6c108b4f1724811374b48e7d4.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\740161ed7a43205e41fa9d97d69038a8.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\738a3e4a7ebf41d16e3c862d86861fa4.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\79edf110509c7f3e82a68b37e497da37.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\777f32dfd1d2188ff8dd0d4cde009599.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\7fa113a832cdff1186a167814961232f.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\80f5173bf7ed06b9874451f85dc26172.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\838c532c0393c6d96cc47bc08bad3dd5.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\7e0dd6f97688558ca6a0db0e0a1c63ef.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\7cd275c9116c5c414773fbbde4e9fad0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\864fb69a4ed56e576b752313b9672bd2.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\86891d9db1bea46271068bc382adfb8a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\8746b2f99204473994551e76598beb11.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\879d1fee1393f025a38891471f653245.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\88969a579bb6969774fdc4f4885a92cf.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\8e0dbd4958f048dc36f782c88f518e61.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\89b8490ed1b1ca4e7ebfe28260d8bc2d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\8c8e0b8aa594811c85a284989d0da962.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\8eb734e672fcda413d9bd64ee34ea02c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\97f5989d56021a5a61142b60164d084d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\90692f477d686e4d12870af5cdad10be.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\915089746d8f096962784b74f2b5d2ca.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\99d04fffc89596f9e0d64f6d976e685f.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\9cdd0ae8700513333e2525b9dfaaa559.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\9a762e0b974e776d98946062676318e2.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\9a5aa51e93082c859e77bec0a30ff419.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\a59ce9906bd5e9c0c733d79b6ad4abd0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\a6c2b7a8531cfd8d32f2db5cc860261b.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\a61927b3a3a4710ad3fef4a9ecbdfccc.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\a9c3a1960bfabe766eab62c08262cf93.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\a90cb8cf25d3544368ce9d4b214e9b0f.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\afac3313d8d6500b434e05aa016da1a5.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b2a621b41be1a2171ffbfce35d884ffc.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\aadd5dfb63c31c3ddbff074a3ed0cc38.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\ad411ecf5986985bdc2dd9dffd6e3e11.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b4b12c273d9e32c2eb375b93577dc04a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b1014c16938b162068a651140e7abb6c.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b66f19961f43e86901d3f7a60f8048d1.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b34f8905a5e53d70082911e29d6a619a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b7ed2c6d91ae713847db3b87875b36e4.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\bad1d58be6521e481063d5a0b41dd843.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\c8fbd0aa44d652742847d83eb1b746e6.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b70870c0948b8a105f7e4cbf11fa472f.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\b7cd4d933ac2071e1e679d3e84e85963.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\c9244548e4caeb6102ee03fd59783247.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\cacf79b5a694672b51c4d4d6f390298a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\cb770632b6258142d1027e345e7a31d1.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\ce3c2ad80fd0153331467d3deb3d721d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\cf621ce161070a1eb82fed1a8981f4b9.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\d439a1cff6566b92eac26284d1ba0538.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\c963263291cd80af7e1d35f491addc6a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\d58554273d0545128df1934281e0bbe3.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\d6499a042fa79a51da465aa7b81a9cb1.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\e08be5a167386599e2c6b25ef126f4cc.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\db7ea4553b9f76c689a49cb90abe138d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\d95096653cab22c1337d07085ff6b671.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\de599fd0677359cc31e364677bdbb646.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\e0e588789dbb2db16d3c104f6097f486.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\e3d1a89f18171a2bb6346b17a55493bf.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\ea1df38959eba622a63624925e17cdaf.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\e6b49d02576df50a9c34fb648c5ae5cf.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\ed6ceedf0f9cc15685695cfa68a44b0a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\eefbb04c5633c837152b61ad7ad97e76.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\e440ad312d4af9783d518cc3fea467e7.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\ed892a08ecfee58929015a9153ff13cf.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f0763fb55a0dee42289bd376ca52edc0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\eafcd32f0b0fb6f55736be614e1a40b2.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f0532e5b0c73a5bea7c2528a62df9c81.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\ef63ec764f3bcbcc32bb27a38ba4cb21.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f090becbe84fc99e7ccdf6c355b4641a.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f1d85280e797f07a22e3a6062ef6cba2.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f7b51c97dc61ef8d0ec302d59a2bffa0.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f84c26dfb4b65ddbde8117a446ad6649.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f52ab806f4722ddd7b3669ab0e19886d.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\f4edc44d15d72ae6c0594342e5d4ee75.json
+[12:32:45] Including      : C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.angular\cache\13.3.7\babel-webpack\fdfba47a024b621724c055c87b2f58fb.json
+[12:32:45] Searching package.json file
+[12:32:45] package.json file found
+[12:32:45] Processing package.json dependencies
+[12:32:45] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[12:32:45] README.md file found
+[12:32:45] Error during C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\CHANGELOG read
+[12:32:45] Continuing without CHANGELOG.md file
+[12:32:45] Error during C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\CONTRIBUTING read
+[12:32:45] Continuing without CONTRIBUTING.md file
+[12:32:45] LICENSE.md file found
+[12:32:45] Error during C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\TODO read
+[12:32:45] Continuing without TODO.md file
+[12:32:45] Get dependencies data
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/jest-config/setup.ts
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/main.ts
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/polyfills.ts
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/jest-config/__mocks__/globalMocks.ts
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/app.component.ts
+[12:32:54] found          : AppComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/app.module.ts
+[12:32:54] found          : AppModule
+[12:32:54]                : - imports:
+[12:32:54]                : 	- BrowserModule
+[12:32:54]                : 	- TaskModule
+[12:32:54]                : 	- NgxsModule
+[12:32:54]                : 	- NgxsReduxDevtoolsPluginModule
+[12:32:54]                : 	- NgxsLoggerPluginModule
+[12:32:54]                : - declarations:
+[12:32:54]                : 	- AppComponent
+[12:32:54]                : 	- InboxScreenComponent
+[12:32:54]                : 	- PureInboxScreenComponent
+[12:32:54]                : - bootstrap:
+[12:32:54]                : 	- AppComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/environments/environment.prod.ts
+[12:32:54] found          : environment
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/environments/environment.ts
+[12:32:54] found          : environment
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/button.component.ts
+[12:32:54] found          : ButtonComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/Button.stories.ts
+[12:32:54] found          : Template
+[12:32:54] found          : Primary
+[12:32:54] found          : Secondary
+[12:32:54] found          : Large
+[12:32:54] found          : Small
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/header.component.ts
+[12:32:54] found          : HeaderComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/Header.stories.ts
+[12:32:54] found          : Template
+[12:32:54] found          : LoggedIn
+[12:32:54] found          : LoggedOut
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/page.component.ts
+[12:32:54] found          : PageComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/Page.stories.ts
+[12:32:54] found          : Template
+[12:32:54] found          : LoggedOut
+[12:32:54] found          : LoggedIn
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/User.ts
+[12:32:54] found          : User
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/inbox-screen.component.ts
+[12:32:54] found          : InboxScreenComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/pure-inbox-screen.component.ts
+[12:32:54] found          : PureInboxScreenComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/pure-task-list.stories.ts
+[12:32:54] found          : Template
+[12:32:54] found          : Default
+[12:32:54] found          : WithPinnedTasks
+[12:32:54] found          : Loading
+[12:32:54] found          : Empty
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/pure-task-list.component.ts
+[12:32:54] found          : PureTaskListComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/task-list.component.ts
+[12:32:54] found          : TaskListComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/task.component.ts
+[12:32:54] found          : TaskComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/pure-inbox-screen.stories.ts
+[12:32:54] found          : Template
+[12:32:54] found          : Default
+[12:32:54] found          : Error
+[12:32:54] found          : WithInteractions
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/task-list.stories.ts
+[12:32:54] found          : Template
+[12:32:54] found          : Default
+[12:32:54] found          : WithPinnedTasks
+[12:32:54] found          : Loading
+[12:32:54] found          : Empty
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/task.module.ts
+[12:32:54] found          : TaskModule
+[12:32:54]                : - imports:
+[12:32:54]                : 	- CommonModule
+[12:32:54]                : 	- NgxsModule
+[12:32:54]                : - exports:
+[12:32:54]                : 	- TaskComponent
+[12:32:54]                : 	- TaskListComponent
+[12:32:54]                : - declarations:
+[12:32:54]                : 	- TaskComponent
+[12:32:54]                : 	- TaskListComponent
+[12:32:54]                : 	- PureTaskListComponent
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/task.stories.ts
+[12:32:54] found          : actionsData
+[12:32:54] found          : Template
+[12:32:54] found          : Default
+[12:32:54] found          : Pinned
+[12:32:54] found          : Archived
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/models/task.model.ts
+[12:32:54] found          : Task
+[12:32:54] parsing        : C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/state/task.state.ts
+[12:32:54] found          : actions
+[12:32:54] found          : AppError
+[12:32:54] found          : ArchiveTask
+[12:32:54] found          : PinTask
+[12:32:54] found          : defaultTasks
+[12:32:54] found          : TaskStateModel
+[12:32:54] found          : TasksState
+[12:32:54] -------------------
+[12:32:54] Project statistics 
+[12:32:54] - files      : 287
+[12:32:54] - module     : 2
+[12:32:54] - component  : 9
+[12:32:54] - injectable : 1
+[12:32:54] - class      : 3
+[12:32:54] - interface  : 3
+[12:32:54] -------------------
+[12:32:54] Prepare components
+[12:32:54]  ButtonComponent has styleUrls, include them
+[12:32:54]  HeaderComponent has styleUrls, include them
+[12:32:54]  PageComponent has styleUrls, include them
+[12:32:54] Prepare modules
+[12:32:54] Prepare injectables
+[12:32:54] Prepare classes
+[12:32:54] Prepare interfaces
+[12:32:54] Prepare miscellaneous
+[12:32:54] Process documentation coverage report
+[12:32:54] Generating documentation in export format json
+[12:32:54] Documentation generated in ./ in 9.556 seconds
+info @storybook/angular v6.5.7
+info 
+info => Cleaning outputDir: C:\Users\VenkateshMogili\AppData\Local\Temp\chromatic--9484-43fFRClgvvLz
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:C:\Users\VenkateshMogili\Desktop\Youtube\Training\Angular\day6\taskbox\.storybook\tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "taskbox:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building 0/18 entries 1/18 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/18 entries 2/27 dependencies 0/2 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/28 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building 0/18 entries 16/28 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building 0/18 entries 28/29 dependencies 0/28 modules
+<s> [webpack.Progress] 10% building 0/18 entries 107/200 dependencies 0/68 modules
+<s> [webpack.Progress] 13% building 1/18 entries 148/218 dependencies 9/68 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/18 entries 281/367 dependencies 25/113 modules
+<s> [webpack.Progress] 13% building 1/18 entries 344/376 dependencies 33/151 modules
+<s> [webpack.Progress] 16% building 2/18 entries 467/548 dependencies 61/161 modules
+<s> [webpack.Progress] 16% building 2/18 entries 500/568 dependencies 61/186 modules
+<s> [webpack.Progress] 16% building 2/18 entries 706/900 dependencies 83/253 modules
+<s> [webpack.Progress] 19% building 3/18 entries 923/997 dependencies 93/294 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1160/1200 dependencies 143/353 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1300/1698 dependencies 158/367 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1400/1888 dependencies 160/446 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1466/1888 dependencies 186/498 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1995/2300 dependencies 240/609 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2341/2400 dependencies 272/635 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2656/3194 dependencies 282/700 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3411/3515 dependencies 392/900 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3516/3600 dependencies 404/935 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3800/3900 dependencies 424/969 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4342/4400 dependencies 534/1028 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4507/4600 dependencies 622/1066 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4933/5000 dependencies 830/1159 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4991/5100 dependencies 874/1168 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5072/5200 dependencies 915/1172 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5371/5411 dependencies 947/1300 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5400/5446 dependencies 954/1316 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5555/5600 dependencies 1042/1350 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5800/6095 dependencies 1110/1443 modules
+<s> [webpack.Progress] 22% building 4/18 entries 6086/6100 dependencies 1178/1584 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6365/6400 dependencies 1437/1631 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6640/6660 dependencies 1555/1672 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6640/6660 dependencies 1556/1672 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6640/6660 dependencies 1557/1672 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6640/6660 dependencies 1558/1672 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6640/6660 dependencies 1559/1672 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6640/6660 dependencies 1560/1672 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6640/6660 dependencies 1561/1672 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6640/6660 dependencies 1562/1672 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6640/6660 dependencies 1563/1672 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6814/6830 dependencies 1637/1707 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6958/6962 dependencies 1711/1756 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6958/6962 dependencies 1711/1756 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6968/6969 dependencies 1734/1759 modules
+<s> [webpack.Progress] 64% building 18/18 entries 6970/6970 dependencies 1760/1760 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (1.18 min)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.8d8993fe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.8d8993fe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.90fb2e58.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.90fb2e58.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.462d1153.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.462d1153.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.6aaa0723.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.6aaa0723.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.2a123650.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.2a123650.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.7ae539da.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.890c56fb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.890c56fb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.d2bd9dab.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.3bf41917.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.3dac92c5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.09143ad7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.09143ad7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.09143ad7.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 877.09143ad7.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.8846238d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.8846238d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.14fab361.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.14fab361.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.61bd4b1f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.61bd4b1f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.ac401dae.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.ac401dae.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (1.45 min)
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/app/components/inbox-screen.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN C:/Users/VenkateshMogili/Desktop/Youtube/Training/Angular/day6/taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   366.61bd4b1f.iframe.bundle.js (601 KiB)
+WARN   565.de0d997c.iframe.bundle.js (603 KiB)
+WARN   471.ac401dae.iframe.bundle.js (791 KiB)
+WARN   877.c81a6411.iframe.bundle.js (3.15 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.27 MiB)
+WARN       runtime~main.14fab361.iframe.bundle.js
+WARN       877.c81a6411.iframe.bundle.js
+WARN       main.css
+WARN       main.8846238d.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: C:\Users\VenkateshMogili\AppData\Local\Temp\chromatic--9484-43fFRClgvvLz

@@ -8,6 +8,8 @@ import { CommonModule } from '@angular/common';
 import { TaskListComponent } from './task-list.component';
 import { TaskComponent } from './task.component';
 import * as TaskStories from './task.stories';
+import { Store, NgxsModule } from '@ngxs/store';
+import { TasksState } from '../state/task.state';
 
 export default {
   component: TaskListComponent,
@@ -15,7 +17,8 @@ export default {
     moduleMetadata({
       //👇 Imports both components to allow component composition with Storybook
       declarations: [TaskListComponent, TaskComponent],
-      imports: [CommonModule],
+      imports: [CommonModule, NgxsModule.forRoot([TasksState])],
+      providers: [Store],
     }),
     //👇 Wraps our stories with a decorator
     componentWrapperDecorator(
