@@ -20,7 +20,8 @@
     "docs:json": "compodoc -p ./tsconfig.json -e json -d .",
     "storybook": "npm run docs:json && start-storybook -p 6006",
     "build-storybook": "npm run docs:json && build-storybook",
-    "init-msw": "msw init src/"
+    "init-msw": "msw init src/",
+    "test-storybook": "test-storybook"
   },
   "private": true,
   "dependencies": {
@@ -36,6 +37,7 @@
     "@ngxs/logger-plugin": "^3.7.5",
     "@ngxs/store": "^3.7.5",
     "@storybook/addon-a11y": "^6.5.10",
+    "@storybook/test-runner": "^0.7.1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
